@@ -1,0 +1,1 @@
+This folder contains the instances proposed in T. Vidal, 
